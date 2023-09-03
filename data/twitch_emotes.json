@@ -1,0 +1,2023 @@
+[
+    {
+        "id": "302918474",
+        "name": "sodaGun",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/302918474/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/302918474/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/302918474/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305195576",
+        "name": "sodaShy",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305195576/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305195576/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305195576/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_240fd737745744aa9c057320984f15c0",
+        "name": "sodaLOSE",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_240fd737745744aa9c057320984f15c0/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_240fd737745744aa9c057320984f15c0/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_240fd737745744aa9c057320984f15c0/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305296681",
+        "name": "sodaCult",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305296681/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305296681/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305296681/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "306690575",
+        "name": "soda1",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306690575/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306690575/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306690575/static/light/3.0"
+        },
+        "tier": "3000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "36712",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "306670835",
+        "name": "sodaLL",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306670835/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306670835/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306670835/static/light/3.0"
+        },
+        "tier": "2000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "36711",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305142644",
+        "name": "sodaPray",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305142644/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305142644/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305142644/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305470476",
+        "name": "sodaMad",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305470476/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305470476/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305470476/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_f4bd95f5dd614357b9784132674ecc73",
+        "name": "sodaSubs",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f4bd95f5dd614357b9784132674ecc73/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f4bd95f5dd614357b9784132674ecc73/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f4bd95f5dd614357b9784132674ecc73/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_62af7a1148e94f41a71eccf85ff61782",
+        "name": "sodaWave",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_62af7a1148e94f41a71eccf85ff61782/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_62af7a1148e94f41a71eccf85ff61782/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_62af7a1148e94f41a71eccf85ff61782/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "406404867",
+        "format": [
+            "static",
+            "animated"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "1948847",
+        "name": "sodaPride",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1948847/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1948847/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1948847/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305179008",
+        "name": "sodaYes",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305179008/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305179008/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305179008/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_5c2a6784f4ca47a8ae0ee8fc998e2675",
+        "name": "sodaPls",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5c2a6784f4ca47a8ae0ee8fc998e2675/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5c2a6784f4ca47a8ae0ee8fc998e2675/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5c2a6784f4ca47a8ae0ee8fc998e2675/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "406404867",
+        "format": [
+            "static",
+            "animated"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_4e9b12f8f1224da1b3ae02e24d528463",
+        "name": "sodaDespair",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4e9b12f8f1224da1b3ae02e24d528463/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4e9b12f8f1224da1b3ae02e24d528463/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4e9b12f8f1224da1b3ae02e24d528463/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305142651",
+        "name": "sodaOkay",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305142651/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305142651/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305142651/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305179003",
+        "name": "sodaSip",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305179003/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305179003/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305179003/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305258005",
+        "name": "sodaLETS",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305258005/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305258005/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305258005/static/light/3.0"
+        },
+        "tier": "3000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "36712",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "1948554",
+        "name": "sodaHP",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1948554/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1948554/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1948554/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "306981881",
+        "name": "sodaSmile",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306981881/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306981881/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306981881/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_347cec9e4932451ba9817cfecf0010be",
+        "name": "sodaClown",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_347cec9e4932451ba9817cfecf0010be/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_347cec9e4932451ba9817cfecf0010be/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_347cec9e4932451ba9817cfecf0010be/static/light/3.0"
+        },
+        "tier": "",
+        "emote_type": "follower",
+        "emote_set_id": "29850942-925b-4d51-8047-42a1a3551b38",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "302239891",
+        "name": "sodaRob",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/302239891/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/302239891/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/302239891/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "304244071",
+        "name": "sodaSTARE",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/304244071/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/304244071/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/304244071/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "307942158",
+        "name": "sodaDrunk",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/307942158/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/307942158/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/307942158/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "306852107",
+        "name": "sodaSO",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306852107/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306852107/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306852107/static/light/3.0"
+        },
+        "tier": "2000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "36711",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "1948579",
+        "name": "sodaWOW",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1948579/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1948579/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1948579/static/light/3.0"
+        },
+        "tier": "",
+        "emote_type": "bitstier",
+        "emote_set_id": "1232188883",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "1949682",
+        "name": "sodaC",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1949682/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1949682/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1949682/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "306981814",
+        "name": "sodaComfy",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306981814/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306981814/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306981814/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "1949063",
+        "name": "sodaS",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1949063/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1949063/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1949063/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_7b5bfef68df0482488690bcb6b21ac37",
+        "name": "sodaAYAYA",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7b5bfef68df0482488690bcb6b21ac37/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7b5bfef68df0482488690bcb6b21ac37/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7b5bfef68df0482488690bcb6b21ac37/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "307094469",
+        "name": "sodaPat",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/307094469/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/307094469/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/307094469/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_aa1fded4f8c943219a92fd95353ffb18",
+        "name": "sodaWiggle",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_aa1fded4f8c943219a92fd95353ffb18/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_aa1fded4f8c943219a92fd95353ffb18/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_aa1fded4f8c943219a92fd95353ffb18/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "406404867",
+        "format": [
+            "static",
+            "animated"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "1948536",
+        "name": "sodaG",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1948536/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1948536/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1948536/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_f64337310e7242528e67f63822d319a5",
+        "name": "sodaWICKEDA",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f64337310e7242528e67f63822d319a5/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f64337310e7242528e67f63822d319a5/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f64337310e7242528e67f63822d319a5/static/light/3.0"
+        },
+        "tier": "",
+        "emote_type": "bitstier",
+        "emote_set_id": "2107673366",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "306691952",
+        "name": "sodaXD",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306691952/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306691952/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306691952/static/light/3.0"
+        },
+        "tier": "2000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "36711",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "307140068",
+        "name": "sodaHappy",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/307140068/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/307140068/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/307140068/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305296674",
+        "name": "sodaCry",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305296674/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305296674/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305296674/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_67c4b52099d6423c97e02c7fa9efb232",
+        "name": "sodaH",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_67c4b52099d6423c97e02c7fa9efb232/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_67c4b52099d6423c97e02c7fa9efb232/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_67c4b52099d6423c97e02c7fa9efb232/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_547cdb705d9c4513bd4b02db522c3797",
+        "name": "sodaDance",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_547cdb705d9c4513bd4b02db522c3797/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_547cdb705d9c4513bd4b02db522c3797/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_547cdb705d9c4513bd4b02db522c3797/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "406404867",
+        "format": [
+            "static",
+            "animated"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305240051",
+        "name": "sodaFacepalm",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305240051/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305240051/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305240051/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "307853374",
+        "name": "sodaCOP",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/307853374/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/307853374/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/307853374/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "306670849",
+        "name": "sodaChamp",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306670849/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306670849/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306670849/static/light/3.0"
+        },
+        "tier": "2000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "36711",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "306690437",
+        "name": "sodaSUFFER",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306690437/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306690437/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306690437/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "304876195",
+        "name": "sodaL2",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/304876195/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/304876195/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/304876195/static/light/3.0"
+        },
+        "tier": "",
+        "emote_type": "follower",
+        "emote_set_id": "29850942-925b-4d51-8047-42a1a3551b38",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305257990",
+        "name": "sodaKing",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305257990/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305257990/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305257990/static/light/3.0"
+        },
+        "tier": "3000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "36712",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "1949677",
+        "name": "sodaW",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1949677/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1949677/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1949677/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_808a43cce5374f4aa864331fd4a0bd02",
+        "name": "sodaPOUT",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_808a43cce5374f4aa864331fd4a0bd02/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_808a43cce5374f4aa864331fd4a0bd02/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_808a43cce5374f4aa864331fd4a0bd02/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_bc0202ad4c6947f3bfca06560fcaeecf",
+        "name": "sodaDAB",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bc0202ad4c6947f3bfca06560fcaeecf/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bc0202ad4c6947f3bfca06560fcaeecf/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bc0202ad4c6947f3bfca06560fcaeecf/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "306981874",
+        "name": "sodaHide",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306981874/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306981874/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306981874/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_8cca1943553d4f54aae6982f84acdf97",
+        "name": "sodaREE",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8cca1943553d4f54aae6982f84acdf97/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8cca1943553d4f54aae6982f84acdf97/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8cca1943553d4f54aae6982f84acdf97/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "306669853",
+        "name": "sodaHmm",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306669853/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306669853/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306669853/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305918289",
+        "name": "sodaNOTE",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305918289/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305918289/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305918289/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "1949540",
+        "name": "sodaShovel",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1949540/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1949540/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1949540/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305178983",
+        "name": "sodaNo",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305178983/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305178983/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305178983/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "306065646",
+        "name": "sodaWICKED",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306065646/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306065646/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306065646/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_b63fffcbd9f84ce6b3a03d5f75a5955b",
+        "name": "sodaHeart",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b63fffcbd9f84ce6b3a03d5f75a5955b/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b63fffcbd9f84ce6b3a03d5f75a5955b/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b63fffcbd9f84ce6b3a03d5f75a5955b/static/light/3.0"
+        },
+        "tier": "",
+        "emote_type": "bitstier",
+        "emote_set_id": "1928519264",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "306690577",
+        "name": "soda2",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306690577/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306690577/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306690577/static/light/3.0"
+        },
+        "tier": "3000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "36712",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "307094892",
+        "name": "sodaOwO",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/307094892/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/307094892/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/307094892/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_c7317b81d8da4e11afd391a83e7be099",
+        "name": "sodaIcant",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c7317b81d8da4e11afd391a83e7be099/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c7317b81d8da4e11afd391a83e7be099/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c7317b81d8da4e11afd391a83e7be099/static/light/3.0"
+        },
+        "tier": "",
+        "emote_type": "follower",
+        "emote_set_id": "29850942-925b-4d51-8047-42a1a3551b38",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_a4f9784c61464c17ad9ebf4b93c3121f",
+        "name": "sodaV",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a4f9784c61464c17ad9ebf4b93c3121f/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a4f9784c61464c17ad9ebf4b93c3121f/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a4f9784c61464c17ad9ebf4b93c3121f/static/light/3.0"
+        },
+        "tier": "",
+        "emote_type": "follower",
+        "emote_set_id": "29850942-925b-4d51-8047-42a1a3551b38",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_bf43ed9c4f0741a094f3752d189b560d",
+        "name": "sodaSit",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bf43ed9c4f0741a094f3752d189b560d/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bf43ed9c4f0741a094f3752d189b560d/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bf43ed9c4f0741a094f3752d189b560d/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_73505acac027466cbb78e7e3cf72d30c",
+        "name": "sodaHUG",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_73505acac027466cbb78e7e3cf72d30c/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_73505acac027466cbb78e7e3cf72d30c/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_73505acac027466cbb78e7e3cf72d30c/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "1948681",
+        "name": "sodaNice",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1948681/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1948681/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1948681/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305276658",
+        "name": "sodaEZ",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305276658/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305276658/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305276658/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_bb00b2e06a634479af0c5e60fd629d88",
+        "name": "sodaWoke",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bb00b2e06a634479af0c5e60fd629d88/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bb00b2e06a634479af0c5e60fd629d88/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bb00b2e06a634479af0c5e60fd629d88/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305918284",
+        "name": "sodaBOOP",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305918284/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305918284/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305918284/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "304987159",
+        "name": "sodaHi",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/304987159/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/304987159/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/304987159/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_4cc96c3510d94883b4c753a31421d7f1",
+        "name": "sodaHYPERS",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4cc96c3510d94883b4c753a31421d7f1/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4cc96c3510d94883b4c753a31421d7f1/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4cc96c3510d94883b4c753a31421d7f1/static/light/3.0"
+        },
+        "tier": "",
+        "emote_type": "bitstier",
+        "emote_set_id": "1123105633",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_a3aa9763b5b94a38bf592ba9ef26fccc",
+        "name": "sodaD",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a3aa9763b5b94a38bf592ba9ef26fccc/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a3aa9763b5b94a38bf592ba9ef26fccc/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a3aa9763b5b94a38bf592ba9ef26fccc/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305142646",
+        "name": "sodaSadCat",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305142646/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305142646/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305142646/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_6529543f7e344817a073ecf2f724e792",
+        "name": "sodaNk",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6529543f7e344817a073ecf2f724e792/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6529543f7e344817a073ecf2f724e792/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6529543f7e344817a073ecf2f724e792/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_7524d994791141758075f030f43260e9",
+        "name": "sodaStand",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7524d994791141758075f030f43260e9/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7524d994791141758075f030f43260e9/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7524d994791141758075f030f43260e9/static/light/3.0"
+        },
+        "tier": "",
+        "emote_type": "follower",
+        "emote_set_id": "29850942-925b-4d51-8047-42a1a3551b38",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_807383611e084ec2a0804c9c88305afb",
+        "name": "sodaOmega",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_807383611e084ec2a0804c9c88305afb/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_807383611e084ec2a0804c9c88305afb/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_807383611e084ec2a0804c9c88305afb/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "306981846",
+        "name": "sodaSleep",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306981846/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306981846/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306981846/static/light/3.0"
+        },
+        "tier": "3000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "36712",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "306690490",
+        "name": "sodaWhatisthis",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306690490/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306690490/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306690490/static/light/3.0"
+        },
+        "tier": "2000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "36711",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_be0bd5adaa134778b5e742445dd6bafb",
+        "name": "sodaDink",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_be0bd5adaa134778b5e742445dd6bafb/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_be0bd5adaa134778b5e742445dd6bafb/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_be0bd5adaa134778b5e742445dd6bafb/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "406404867",
+        "format": [
+            "static",
+            "animated"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_ecd0a936c3e64d549b905602e42dd1c1",
+        "name": "sodaBF",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ecd0a936c3e64d549b905602e42dd1c1/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ecd0a936c3e64d549b905602e42dd1c1/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ecd0a936c3e64d549b905602e42dd1c1/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305976004",
+        "name": "sodaDead",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305976004/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305976004/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305976004/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_63b6dc7bb00949909b66196c94409123",
+        "name": "sodaSmug",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_63b6dc7bb00949909b66196c94409123/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_63b6dc7bb00949909b66196c94409123/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_63b6dc7bb00949909b66196c94409123/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305195580",
+        "name": "sodaSmirk",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305195580/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305195580/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305195580/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "304876188",
+        "name": "sodaL",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/304876188/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/304876188/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/304876188/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "emotesv2_fbff1cce7d684246bbf2c494bc7c76b3",
+        "name": "sodaPog",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fbff1cce7d684246bbf2c494bc7c76b3/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fbff1cce7d684246bbf2c494bc7c76b3/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fbff1cce7d684246bbf2c494bc7c76b3/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "307424908",
+        "name": "sodaFat",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/307424908/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/307424908/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/307424908/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "306711750",
+        "name": "sodaMeow",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306711750/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306711750/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306711750/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    },
+    {
+        "id": "305240057",
+        "name": "sodaPeek",
+        "images": {
+            "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305240057/static/light/1.0",
+            "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305240057/static/light/2.0",
+            "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305240057/static/light/3.0"
+        },
+        "tier": "1000",
+        "emote_type": "subscriptions",
+        "emote_set_id": "105",
+        "format": [
+            "static"
+        ],
+        "scale": [
+            "1.0",
+            "2.0",
+            "3.0"
+        ],
+        "theme_mode": [
+            "light",
+            "dark"
+        ]
+    }
+]
